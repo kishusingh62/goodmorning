@@ -1,0 +1,20 @@
+img{
+    height: 400px;
+    border: solid white 10px;
+}
+body{
+    background-color: black;
+}
+.pic{
+    margin-top: 10%;
+    padding-left: 30%;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    padding-left: 7%;
+}
+p{
+    color: white;
+    padding-left: 13%;
+}
