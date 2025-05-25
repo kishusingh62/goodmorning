@@ -6,15 +6,19 @@ body{
     background-color: black;
 }
 .pic{
+    /* background-color: pink; */
+    height: 550px;
+    width: 555px;
     margin-top: 10%;
-    padding-left: 30%;
+    margin-left: 30%;
 }
 h1{
     font-family: "Libre Baskerville", serif;
     color: white;
-    padding-left: 7%;
+    padding-left: 12%;
+    /* background-color: pink; */
 }
 p{
     color: white;
-    padding-left: 13%;
+    padding-left: 25%;
 }
